@@ -1,0 +1,29 @@
+{
+  "backup" : [ {
+    "_id" : 1,
+    "nombre" : "Pedro",
+    "edad" : 30
+  }, {
+    "_id" : {
+      "$oid" : "60257bc24eed61650e10ad99"
+    },
+    "nombre" : "ttt",
+    "Edad" : "pepe"
+  }, {
+    "_id" : {
+      "$oid" : "60257cacfdbfad772e975a3c"
+    },
+    "nombre" : "Pedro",
+    "Edad" : "12"
+  }, {
+    "_id" : {
+      "$oid" : "60257e7520e6a860b8fe3444"
+    },
+    "Nombre" : "Pepito",
+    "Edad" : "1212",
+    "clase" : {
+      "nombre" : "Pintura",
+      "nivel" : "DAM1"
+    }
+  } ]
+}
